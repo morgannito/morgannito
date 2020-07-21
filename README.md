@@ -10,7 +10,9 @@
 <ul>
 <li>- 🔭 I’m currently working on Symfony Project</li>
 <li>- 🌱 I’m currently learning Sylius</li>
-<li>* 💼 Currently working at [Cotton Bird](https://www.cottonbird.fr/) <br/></li>
-<li>* 🔖 Discover my [Curriculum Vitae](https://media-exp1.licdn.com/dms/image/C4D2DAQGEhUazYk3lLg/profile-treasury-image-shrink_1920_1920/0?e=1595451600&v=beta&t=JdJmdiLqxeTh2aIALHGaxJ5GryhKU1W5DDdoFBlPDAU)<br/></li>
-<li>* 📫 Contact me [@Morgannito](mriu.morgannito@gmail.com)</li>
+<li>* 💼 Currently working at [<a href="https://www.cottonbird.fr/">Cotton Bird</a>] <br/></li>
+<li>* 🔖 Discover my [<a href="https://media-exp1.licdn.com/dms/image/C4D2DAQGEhUazYk3lLg/profile-treasury-image-shrink_1920_1920/0?e=1595451600&v=beta&t=JdJmdiLqxeTh2aIALHGaxJ5GryhKU1W5DDdoFBlPDAU">Curriculum Vitae</a>
+]<br/></li>
+<li>* 📫 Contact me [<a href="mriu.morgannito@gmail.com">@morgannito</a>
+]</li>
 </ul>
