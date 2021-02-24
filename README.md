@@ -9,7 +9,7 @@
 </p>
 <ul>
 <li> 🔭 I’m currently working on Python / NodeJs</li>
-<li> 🌱 I’m currently learning at [<a href="https://www.imerir.com/formations/"> Imerir</a>] </li>
+<li> 🌱 I’m currently learning at [<a href="https://www.imerir.com/formations/">Imerir</a>] </li>
 <li> 💼 Currently working at [<a href="https://www.bonsecours66.com/">Lycée Notre Dame de Bon Secours</a>] <br/></li>
 <li> 🔖 Discover my [<a href="https://media-exp1.licdn.com/dms/image/C4D2DAQGEhUazYk3lLg/profile-treasury-image-shrink_1920_1920/0?e=1604098800&v=beta&t=GEiYaoR1paUgq-JAVU1l0_ixwyzW7H6NYs0_w3iC0TY">Curriculum Vitae</a>
 ]<br/></li>
