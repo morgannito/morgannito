@@ -10,7 +10,6 @@
 <ul>
 <li> 🔭 I’m currently working on Python / NodeJs</li>
 <li> 🌱 I’m currently learning at [<a href="https://www.imerir.com/formations/">Imerir</a>] </li>
-]<br/></li>
 <li> 📫 Contact me [<a href="mriu.morgannito@gmail.com">@morgannito</a>
 ]</li>
 </ul>
