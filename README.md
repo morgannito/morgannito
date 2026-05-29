@@ -67,16 +67,12 @@ class MorgannRiu:
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morgannito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morgannito&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=morgannito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Statistiques GitHub de Morgann Riu"/>
+  <img src="https://streak-stats.demolab.com/?user=morgannito&theme=tokyonight&hide_border=true" height="165" alt="Streak de contributions"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgannito&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=morgannito&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=morgannito&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés"/>
 </p>
 
 <!-- GIF de fin -->
