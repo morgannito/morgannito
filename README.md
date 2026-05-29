@@ -6,7 +6,7 @@
 <!-- Titre qui se tape tout seul -->
 <p align="center">
   <a href="https://morgannriu.fr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+infrastructure+%26+s%C3%A9curit%C3%A9;Admin+Linux+%7C+Self-hosting+%7C+DevOps;Pentest+web+%7C+OSINT+%7C+Durcissement;Je+casse+pour+mieux+reconstruire+%F0%9F%92%A5" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Ing%C3%A9nieur+infrastructure+%26+s%C3%A9curit%C3%A9;Administration+Linux+%7C+DevOps+%7C+Auto-h%C3%A9bergement;Pentest+web+%7C+OSINT+%7C+Durcissement;Infrastructures+d%C3%A9ploy%C3%A9es+en+production" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -39,7 +39,7 @@ class MorgannRiu:
 - 🐧 **Infra & DevOps** — Proxmox, Docker, Nginx, Cloudflare, Ansible, CI/CD, observabilité
 - ⚙️ **Dev** — PHP 8.3 (Clean Architecture), Python, Node.js, intégration de LLMs
 - 🏫 **Expérience** — Responsable informatique & infrastructure réseau au **Groupe Bonsecours** (multi-sites scolaires)
-- 🔥 Toujours en train de self-host un truc de plus sur mon homelab
+- 🔥 Conception et exploitation d'infrastructures Linux auto-hébergées
 
 ## 💡 Quote du jour
 
@@ -51,10 +51,10 @@ class MorgannRiu:
 
 | Projet | Description |
 |--------|-------------|
-| [**CyberScan**](https://morgannriu.fr/pages/projets/cyberscan) | 🛡️ Scanner de vulnérabilités web multi-modules, Clean Architecture PHP, analyse assistée par IA |
-| [**Xeon AI Stack**](https://morgannriu.fr/pages/projets/xeon-ai-stack) | 🤖 Stack IA locale self-hosted : LLM CPU-only, TTS, STT, monitoring |
-| [**Autoloop NVIDIA**](https://morgannriu.fr/pages/projets/autoloop-nvidia) | ♾️ Bot de coding autonome itératif avec fallback multi-niveaux |
-| [**Portfolio & tutos**](https://morgannriu.fr) | 📚 60+ tutoriels Linux / cybersécurité et articles techniques |
+| [**CyberScan**](https://morgannriu.fr/pages/projets/cyberscan) | 🛡️ Scanner de vulnérabilités web multi-modules en Clean Architecture PHP, avec enrichissement des résultats par IA |
+| [**Plateforme IA locale**](https://morgannriu.fr/pages/projets/xeon-ai-stack) | 🤖 Infrastructure IA auto-hébergée : inférence LLM sur CPU, synthèse vocale, transcription, supervision |
+| [**Agent de développement autonome**](https://morgannriu.fr/pages/projets/autoloop-nvidia) | ♾️ Agent de génération de code itératif avec triple repli (API NVIDIA, modèle local, mode dégradé) |
+| [**Portfolio & tutoriels**](https://morgannriu.fr) | 📚 60+ tutoriels Linux / cybersécurité et articles techniques |
 
 ## 🧰 Stack
 
@@ -82,7 +82,7 @@ class MorgannRiu:
 <!-- GIF de fin -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="cat coding"/>
-  <i> « Je construis, je casse, je documente. »</i>
+  <i> Disponible pour des missions infrastructure &amp; sécurité — <a href="https://morgannriu.fr">morgannriu.fr</a></i>
 </p>
 
 <p align="center">
